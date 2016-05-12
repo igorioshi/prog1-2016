@@ -4,7 +4,7 @@ int main()
 {
     int opc, continuar;
     int num1;
-    float res;
+    float res,m;
     
     do
     {
